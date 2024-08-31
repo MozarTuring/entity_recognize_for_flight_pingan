@@ -1,0 +1,4 @@
+{
+  "learning_rate":{"_type":"randint", "_value":[1, 10]},
+  "num_train_epochs":{"_type":"choice", "_value":[1,2,3]}
+}

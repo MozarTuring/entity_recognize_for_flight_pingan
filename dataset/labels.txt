@@ -1,0 +1,16 @@
+B-Flight_Date
+I-Flight_Date
+B-Name_PY
+I-Name_PY
+B-Name
+I-Name
+B-Destination_PY
+I-Destination_PY
+B-Destination
+I-Destination
+B-Origin_PY
+I-Origin_PY
+B-Origin
+I-Origin
+B-Flight_Number
+I-Flight_Number

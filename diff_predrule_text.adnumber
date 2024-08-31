@@ -1,0 +1,65 @@
+17Admission_Number:{'2018086001'}	      |	17Admission_Number:{'201808600'}
+21Admission_Number:{'1010680'}		      |	21Admission_Number:set()
+28Admission_Number:{'21900935'}		      |	28Admission_Number:set()
+32Admission_Number:{'201903226'}	      |	32Admission_Number:set()
+34Admission_Number:{'19002208'}		      |	34Admission_Number:set()
+48Admission_Number:{'1902261'}		      |	48Admission_Number:{'190226'}
+72Admission_Number:{'461949685'}	      |	72Admission_Number:set()
+107Admission_Number:{'180064902'}	      |	107Admission_Number:{'18006490'}
+108Admission_Number:{'180064902'}	      |	108Admission_Number:{'18006490'}
+112Admission_Number:{'1298060'}		      |	112Admission_Number:{'12980605'}
+114Admission_Number:{'61901999', '9019992010' |	114Admission_Number:{'61901999'}
+117Admission_Number:{'A63750', '46682943'}    |	117Admission_Number:{'A63750'}
+128Admission_Number:{'322267', '1811302'}     |	128Admission_Number:{'322267'}
+133Admission_Number:{'63592', '8635928'}      |	133Admission_Number:{'8635928'}
+140Admission_Number:{'648393'}		      |	140Admission_Number:set()
+143Admission_Number:{'16120018'}	      |	143Admission_Number:set()
+145Admission_Number:{'101021'}		      |	145Admission_Number:set()
+146Admission_Number:{'10302262'}	      |	146Admission_Number:set()
+153Admission_Number:set()		      |	153Admission_Number:{'001108'}
+171Admission_Number:{'1715696'}		      |	171Admission_Number:set()
+188Admission_Number:{'000393272'}	      |	188Admission_Number:{'00039327'}
+198Admission_Number:{'000393272'}	      |	198Admission_Number:{'00039327'}
+204Admission_Number:{'0'}		      |	204Admission_Number:set()
+216Admission_Number:{'SJ000924609323'}	      |	216Admission_Number:{'SJ000924609323A'}
+219Admission_Number:{'19010556'}	      |	219Admission_Number:set()
+239Admission_Number:{'2', '02207678'}	      |	239Admission_Number:{'02207678'}
+247Admission_Number:{'190306942'}	      |	247Admission_Number:{'19030694'}
+289Admission_Number:{'00299616', '0029961'}   |	289Admission_Number:{'00299616'}
+290Admission_Number:{'201756002'}	      |	290Admission_Number:{'20175600'}
+291Admission_Number:{'00032740128'}	      |	291Admission_Number:{'000327401'}
+292Admission_Number:{'0002995215'}	      |	292Admission_Number:set()
+295Admission_Number:{'00018767000187673'}     |	295Admission_Number:{'0001876', '00018767'}
+306Admission_Number:{'0007697158'}	      |	306Admission_Number:set()
+307Admission_Number:{'0', '0001840396'}	      |	307Admission_Number:{'0001840396'}
+308Admission_Number:{'180110822'}	      |	308Admission_Number:{'18011082'}
+310Admission_Number:{'000311338'}	      |	310Admission_Number:{'0003113383'}
+315Admission_Number:{'J80624170'}	      |	315Admission_Number:{'J806241'}
+323Admission_Number:{'00074870', '0023634'}   |	323Admission_Number:{'0023634'}
+324Admission_Number:{'018154982'}	      |	324Admission_Number:{'01815498'}
+326Admission_Number:{'18011315201'}	      |	326Admission_Number:{'18011315'}
+327Admission_Number:{'20186236', '201862362'} |	327Admission_Number:{'20186236'}
+331Admission_Number:{'2', '201900011'}	      |	331Admission_Number:{'201900011'}
+335Admission_Number:{'13098503'}	      |	335Admission_Number:{'130985032'}
+337Admission_Number:{'003545002'}	      |	337Admission_Number:{'00354500'}
+338Admission_Number:{'003545002'}	      |	338Admission_Number:{'00354500'}
+341Admission_Number:{'00259063'}	      |	341Admission_Number:{'0025906'}
+342Admission_Number:{'00112046', '0025906'}   |	342Admission_Number:{'0025906'}
+356Admission_Number:{'201856092', '20185609'} |	356Admission_Number:{'20185609'}
+358Admission_Number:{'180094932018-06-11'}    |	358Admission_Number:set()
+359Admission_Number:set()		      |	359Admission_Number:{'18009493'}
+365Admission_Number:{'201900444410'}	      |	365Admission_Number:{'2019004444'}
+368Admission_Number:{'0220916'}		      |	368Admission_Number:set()
+371Admission_Number:{'014411852'}	      |	371Admission_Number:{'01441185'}
+372Admission_Number:{'0868796', '277423'}     |	372Admission_Number:{'277423'}
+373Admission_Number:{'0868796', '277423'}     |	373Admission_Number:{'277423'}
+378Admission_Number:{'0868796', '277423'}     |	378Admission_Number:{'277423'}
+384Admission_Number:{'47401'}		      |	384Admission_Number:set()
+397Admission_Number:{'00764582019'}	      |	397Admission_Number:{'0076458'}
+398Admission_Number:{'00764582019'}	      |	398Admission_Number:{'0076458'}
+405Admission_Number:{'231159O'}		      |	405Admission_Number:{'231159'}
+417Admission_Number:{'69676', '69'}	      |	417Admission_Number:{'696709', '69676'}
+418Admission_Number:{'69670910', '696769'}    |	418Admission_Number:{'696709', '696769'}
+420Admission_Number:{'696709', '69'}	      |	420Admission_Number:{'696709'}
+439Admission_Number:{'16781', '167812'}	      |	439Admission_Number:{'167812'}
+441Admission_Number:{'359982'}		      |	441Admission_Number:{'359982入', '359982'}

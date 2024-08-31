@@ -1,0 +1,16 @@
+--data_dir /data2/zhuyiang/dataset/dataset_board_card/augment_name_loc \
+--model_type bert \
+--labels ./dataset/labels.txt \
+--config_name ../chinese_bert_base_pytorch_ckpt/bert_config.json \
+--model_name_or_path ../chinese_bert_base_pytorch_ckpt/pytorch_model.bin \
+--tokenizer_name ../chinese_bert_base_pytorch_ckpt/vocab.txt \
+--output_dir /data2/zhuyiang/model/board_card/augment_name_loc \
+--do_lower_case \
+--max_seq_length 512 \
+--do_train \
+--do_eval \
+--do_predict \
+--num_train_epochs 3 \
+--save_steps 500 \
+--per_gpu_train_batch_size 32 \
+--per_gpu_eval_batch_size 32
